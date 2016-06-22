@@ -1,7 +1,7 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of TASTEMEDIA, this guys developed Cityapp for you.\n![tastemedia](http://tastemedia.de/images/pic01.jpg)\nWant to know more about our APP? %[I'm here for the bot](http://chatbotmagazine.com) %[Learn about TASTEMEDIA](http://tastemedia.de)",
-    "HELLO": "Hey, I'm so glad you found our App! Do you want to tell TASTEMEDIA that you're talking to their APP bot?\n %[Tell THEM](postback:twitter)",
-    "TELL THEM": "Let's tweet @ tastemedia_web so they know you're talking to a bot right now. Here's a tweet that's ready to go: %[Tweet Tastemedia](http://twitter.com/tastemedia_web)",
+    "HELP": "Hi there!\nI’m the your helpbot by TASTEMEDIA\n This guys developed Cityapp for you.\n![tastemedia](http://tastemedia.de/images/pic01.jpg)\nWant to know more about our APP? %[Help for App](http://dev.tastemedia.de/cityapp) %[more about TASTEMEDIA](http://tastemedia.de)",
+    "HELLO": "Hey, I'm help you with your questions. Use Keywords like: HELP,BAR, FOOD, BEST LOCATION",
+    "FRIENDS": "Let's connect @tastemedia_web with us. %[Twitter Tastemedia](https://twitter.com/tastemedia_web)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "BEST LOCATION": "You should checkout this cool location when you are in town: %[SUPER LOCATION](https://www.google.de/maps/place/Gastst%C3%A4tte+Alt+Landshut/@48.53606,12.1473213,17z/data=!3m1!4b1!4m5!3m4!1s0x479e26747318fa75:0xc46c8727cedd8fac!8m2!3d48.53606!4d12.14951?hl=de)",
     "CONNECT ME": "",
