@@ -1,7 +1,7 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of TASTEMEDIA, this guys developed this Cityapp for you.\n![tastemedia](http://tastemedia.de/images/pic01.jpg)\nWant to know more about our APP? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you found our App! Do you want to tell TASTEMEDIA that you're talking to their APP bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ tastemedi_web so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Tastemedia](http://bit.ly/tastemedia_web)",
+    "BOT": "Hi there!\nI’m the personal bot of TASTEMEDIA, this guys developed this Cityapp for you.\n![tastemedia](http://tastemedia.de/images/pic01.jpg)\nWant to know more about our APP? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about TASTEMEDIA](postback:learn_about_tastemdia) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you found our App! Do you want to tell TASTEMEDIA that you're talking to their APP bot?\n %[Tell THEM](postback:twitter)",
+    "TELL THEM": "Let's tweet @ tastemedia_web so they know you're talking to a bot right now. Here's a tweet that's ready to go: %[Tweet Tastemedia](http://twitter.com/tastemedia_web)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "BEST LOCATION": "You should checkout at least this cool location: Alstadt",
     "CONNECT ME": "",
