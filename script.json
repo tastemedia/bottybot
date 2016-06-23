@@ -9,5 +9,5 @@
     "DISCONNECT": "Roger that, TASTEMEDIA BOT is back.",
     "BEST FOOD": "Best food in town you can get here: %[Bavarian Food](https://www.google.de/maps/place/Augustiner+an+der+St.+Martinskirche/@48.534704,12.1494546,17z/data=!3m1!4b1!4m5!3m4!1s0x479e2673d92b06e9:0xac0e6adb4973be2a!8m2!3d48.534704!4d12.1516433?hl=de)",
     "BEST BAR":"One of the coolest bars in town is the ZAP BAR. Check it here: %[ZAP BAR on the MAP](https://www.google.de/maps/place/ZAP+Biergarten/@48.5361,12.1479513,17z/data=!4m5!3m4!1s0x479e26738a79c13b:0x550fd1dbab488aa7!8m2!3d48.5361!4d12.15014?hl=de)",
-    "EVENT":"Ok, let´s see what we have today...\n ![EVENTS](http://www.landshut.de/portal/kultur/veranstaltungstipps.html)"
+    "EVENT":"Ok, let´s see what we have today...\n ![EVENTS](http://www.hugo-landshut.de/veranstaltungen.html)"
 }
