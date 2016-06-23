@@ -1,10 +1,11 @@
 {
     "HELLO": "Hi there!\nHow can I help you?\n![tastemedia](http://tastemedia.de/images/pic01.jpg)\nWant you to know more about our APP? %[Help for App](http://dev.tastemedia.de/cityapp) %[more about TASTEMEDIA](http://tastemedia.de)",
-    "HELP": "Hey, I will try to help you with your questions. Just write one of the Keywords like: HELP, BEST BAR, BEST FOOD, BEST LOCATION, FRIENDS, I LOVE YOU, CINEMA, EVENT...",
+    "HELP": "Hey, I will try to help you with your questions. Just write one of the Keywords like: HELP, BEST BAR, BEST FOOD, BEST LOCATION, FRIENDS, I LOVE YOU, CINEMA, EVENT, THANK YOU...",
     "FRIENDS": "Let's connect @tastemedia_web with us. %[Twitter Tastemedia](https://twitter.com/tastemedia_web)",
     "I LOVE YOU": "Awh, shucks! I love you too!\n![tastemedia](http://tastemedia.de/images/download.jpg)",
     "BEST LOCATION": "You should checkout this cool location when you are in town: %[SUPER LOCATION](https://www.google.de/maps/place/Gastst%C3%A4tte+Alt+Landshut/@48.53606,12.1473213,17z/data=!3m1!4b1!4m5!3m4!1s0x479e26747318fa75:0xc46c8727cedd8fac!8m2!3d48.53606!4d12.14951?hl=de)",
     "CINEMA": "Ok. Let´s see what we have today for you: %[Show Movies in CINEMA](http://www.kinopolis.de/lh)",
+    "THANK YOU":"You´re welcome! Come back soon...",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, TASTEMEDIA BOT is back.",
     "BEST FOOD": "Best food in town you can get here: %[Bavarian Food](https://www.google.de/maps/place/Augustiner+an+der+St.+Martinskirche/@48.534704,12.1494546,17z/data=!3m1!4b1!4m5!3m4!1s0x479e2673d92b06e9:0xac0e6adb4973be2a!8m2!3d48.534704!4d12.1516433?hl=de)",
